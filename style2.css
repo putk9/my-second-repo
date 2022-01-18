@@ -41,6 +41,7 @@ color: violet;
 #notific{
 border: 5px solid red;
 background-color: grey;
+overflow: scroll;
 }
 .mern{
 width: 200px;
